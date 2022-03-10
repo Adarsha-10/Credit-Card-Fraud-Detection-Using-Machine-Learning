@@ -73,7 +73,7 @@ We will follow these sequence of steps to complete this project
 
 #### Select best method
 
- -Apply best hyperparameters
- -Predict on Test data
- -Important Features of best model
- -FPR,TPR & best threshold from the roc curve
+ - Apply best hyperparameters
+ - Predict on Test data
+ - Important Features of best model
+ - FPR,TPR & best threshold from the roc curve
